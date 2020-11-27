@@ -25,7 +25,7 @@ export default class Users extends React.Component<IUsersProps, any> {
           <h1>Team Members</h1>
           </div>
           <div className={ styles.hcard }  style={{paddingTop: "1rem"}}>
-          <a href="https://lotusbetaanalytics.sharepoint.com/sales/Shared%20Documents/Forms/AllItems.aspx" className={styles.btn}>View All</a>
+          {/* <a href="https://lotusbetaanalytics.sharepoint.com/sales/Shared%20Documents/Forms/AllItems.aspx" className={styles.btn}>View All</a> */}
         </div>
           </div>
         </div>
